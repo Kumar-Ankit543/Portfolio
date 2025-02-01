@@ -133,20 +133,20 @@ export default function Home() {
             <h2 className="text-3xl font-bold mb-8 text-white">About Me</h2>
             <p className="text-lg text-neutral-300">
               Well, well, well… look who is in need of a developer. You have
-              come to the right place! Name's Ankit, and I build web
-              applications that don't just work—they hustle. Frontend? Backend?
-              Full stack? I do it all. I've crafted more projects than I can
-              count, and every single one was built to impress. You need a
-              sleek, high-performing website? Done. A robust backend that runs
-              smoother than a well-oiled scam—I mean, system? No problem.
-              Whether it's React, Node.js, Postgres, or anything in between, I
-              make it look easy.
+              come to the right place! Name&apos;s Ankit, and I build web
+              applications that don&apos;t just work—they hustle. Frontend?
+              Backend? Full stack? I do it all. I&apos;ve crafted more projects
+              than I can count, and every single one was built to impress. You
+              need a sleek, high-performing website? Done. A robust backend that
+              runs smoother than a well-oiled scam—I mean, system? No problem.
+              Whether it&apos;s React, Node.js, Postgres, or anything in
+              between, I make it look easy.
             </p>
             <br></br>
             <p className="text-lg text-neutral-300">
-              You've got an idea? I've got the code. Let's make some digital
-              magic happen. Call now—operators are standing by (just kidding,
-              it's just me).
+              You&apos;ve got an idea? I&apos;ve got the code. Let&apos;s make
+              some digital magic happen. Call now—operators are standing by
+              (just kidding, it&apos;s just me).
             </p>
           </div>
         </WavyBackground>
@@ -201,7 +201,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-8 text-white">Get in Touch</h2>
           <p className="text-lg text-neutral-300 mb-8">
-            I'm always open to new opportunities and collaborations.
+            I&apos;m always open to new opportunities and collaborations.
           </p>
           <Button
             size="lg"
