@@ -203,12 +203,19 @@ export default function Home() {
           <p className="text-lg text-neutral-300 mb-8">
             I&apos;m always open to new opportunities and collaborations.
           </p>
-          <Button
-            size="lg"
-            className="bg-white text-black hover:bg-neutral-200"
+          <a
+            href="https://wa.link/sgkesw"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group relative"
           >
-            Contact Me
-          </Button>
+            <Button
+              size="lg"
+              className="bg-white text-black hover:bg-neutral-200"
+            >
+              Contact Me
+            </Button>
+          </a>
         </div>
       </section>
     </main>
